@@ -6,6 +6,7 @@ img{
 *{
     background-color: #fff8e7;
 }
-p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.text{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
 }
