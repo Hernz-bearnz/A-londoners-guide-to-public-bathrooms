@@ -6,7 +6,7 @@ img{
 *{
     background-color: #fff8e7;
 }
-.text{
+p{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
         
@@ -14,4 +14,8 @@ img{
 img.center {
     display: block;
     margin: 0 auto;
+}
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
